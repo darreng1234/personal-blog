@@ -15,23 +15,23 @@ style = 'base16-snazzy' # Highlight.js style
 [[menu.main]]
 identifier = "home"
 name = "Home"
-url = "/"
+url = "/personal-blog/"
 weight = 1
 
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "/about/"
+url = "/personal-blog/about/"
 weight = 2
 
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
-url = "/tags/"
+url = "/personal-blog/tags/"
 weight = 3
 
 [[menu.main]]
 name = "Archive"
 identifier = "archive"
-url = "/posts/"
+url = "/personal-blog/posts/"
 weight = 4
